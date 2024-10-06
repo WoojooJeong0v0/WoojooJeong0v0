@@ -1,4 +1,4 @@
-## Hi there 👋
+## Today is better than tomorrow ✨
 
 <!--
 **WoojooJeong0v0/WoojooJeong0v0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
