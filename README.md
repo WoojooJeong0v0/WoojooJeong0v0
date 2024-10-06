@@ -5,6 +5,10 @@
 
 
 <!--내용 부분-->
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?WoojooJeong0v0=anuraghazra&layout=compact)
+</div>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=Java&logoColor=61DAFB" />&nbsp
