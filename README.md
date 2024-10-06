@@ -63,11 +63,10 @@
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
-<div>
+<div align="center">
   <a href="[https://velog.io/@oka1313](https://descriptive-cornflower-96e.notion.site/JAVA-d8f6ec3374f44e2884057157663b3301?pvs=4)">
     <img src="https://img.shields.io/badge/notion-1EBC8F?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
   </a>  <a href="mailto:malbbobo0v0@gmail.com">
-    <img
-      src="https://img.shields.io/badge/malbbobo0v0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/malbbobo0v0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
