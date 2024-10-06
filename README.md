@@ -5,9 +5,9 @@
 
 
 <!--내용 부분-->
-<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?WoojooJeong0v0=anuraghazra&layout=compact)
-</div>
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
