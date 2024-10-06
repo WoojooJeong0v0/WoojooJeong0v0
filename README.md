@@ -27,7 +27,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/oracle-3670A0?style=for-the-badge&logo=oracle&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/spring-150458.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Mybatis-11557c.svg?style=for-the-badge&logo=Mybatis&logoColor=white" />&nbsp
 </div>
 
 <br>
